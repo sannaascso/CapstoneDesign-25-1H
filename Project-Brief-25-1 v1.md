@@ -260,16 +260,15 @@
 [Return TOP](#list-of-teamsprojects)
  
 # Team-15
-| (1) 과제명 |  TheraTalk |
+| (1) 과제명 |  TheraTalk: Accessible Gemini AI-Powered Therapy Matching application for International and Korean Young Adults |
 |:---  |---  |
 | (2) 팀 번호/이름 | 15-SSB |
-| (3) 구성원 | Issa Batoul
-(2271098): 리더,*역할,...* <br> Issa Batoul(2271098): 팀원,*역할,....* |
+| (3) 구성원 | ISSA BATOUL (2271098): Leader, Frontend <br> SAFAROVA SHOHONA (2271004): Member, *Frontend, UI Design* <br> ASCARD SOEDERSTROEM SANNA (2271001): Member, *Backend* |
 | (4) 지도교수 | 윤명국 교수 |
 | (5) 트랙  | 산학 |
-| (6) 과제 키워드 | AI Therapist Matching (AI 기반 치료사 매칭), Secure Encrypted Communication (보안 암호화 통신), Mental Health Support Platform (정신 건강 지원 플랫폼) |
-| (7) 과제 내용 요약 |   |
-| (8) 주요 Link |  |
+| (6) 과제 키워드 | AI Therapist Matching (AI 기반 치료사 매칭), Gemini AI powered Chatbot, Mental Health Support Platform (정신 건강 지원 플랫폼) |
+| (7) 과제 내용 요약 | *TheraTalk is an AI-powered mental health application designed to make therapy accessible anytime, anywhere for both international and Korean young adults. The app matches users with therapists based on preferences, specialties, and availability. It supports real-time chat therapy, guided self-help modules, and 24/7 AI chatbot support for instant mental health guidance. Users can track their mood, receive personalized mental health tips, and access therapist profiles with scheduling and reviews. Designed for mobile accessibility and privacy, TheraTalk bridges global mental health support with AI-powered convenience* |
+| (8) 주요 Link | https://github.com/batoulissa/CapstoneProjectGroup15 |
  
 <br>
  
